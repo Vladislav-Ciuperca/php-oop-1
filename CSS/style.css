@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #2f2f2f;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    padding: 1rem;
+    text-align: center;
+}
+
+li{
+    list-style: none;
+    list-style:inside;
+    padding: 0.5rem;
+}
